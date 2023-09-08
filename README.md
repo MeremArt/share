@@ -48,7 +48,7 @@ Follow these instructions to set up and run the project on your local machine.
 2. Install dependencies:
 
    ```bash
-   cd ai-prompts-website
+   cd share
    npm install
    ```
 
